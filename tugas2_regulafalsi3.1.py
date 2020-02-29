@@ -9,8 +9,8 @@ import math
 def f(x):
     return x**3-10*x**2+5
 
-a = 0.6
-b = 0.8
+a = 1
+b = 3
 e = 0.0000001
 N = 100
 iterasi = 0
